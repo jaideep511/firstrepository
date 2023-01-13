@@ -5,17 +5,17 @@
 
 ## Where are you from
 
-From Hyderabad, India. A nation known for its culture.
+From Hyderabad, India. A nation known for its culture and city known for biryani.
 
 ## IT Interest
 
-vnsvdkl
+I have a basic knowledge about cyber security and artificial intelligence. 
 ## First Computing Device
 
 My first computing device was a [computer](https://en.wikipedia.org/wiki/Desktop_computer#History) (2006).
 
 ## Something Interesting About You
 
-It doesn't look like it now, but I played American Football in high school and junior college.  I managed to register one tackle to my credit in college.
+I play drums, I can beatbox. I can also speak german.
 
 
